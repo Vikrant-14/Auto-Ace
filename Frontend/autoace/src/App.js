@@ -14,7 +14,7 @@ import AdminRegistration from "./components/AdminPanel/AdminRegistration";
 import CustomerRegistration from "./components/UserPanel/CustomerRegistration";
 import Adminlogin from "./components/AdminPanel/Adminlogin";
 import Booking from "./components/UserPanel/Booking";
-import Login from "./components/UserPanel/Login";
+// import Login from "./components/UserPanel/Login";
 //import Adminlogin from "./components/Adminlogin";
 import Footer from "./components/Footer/Footer";
 import AdminPage from "./components/AdminPanel/AdminPage";
@@ -23,6 +23,7 @@ import UserFeedback from "./components/UserPanel/UserFeedback";
 import ViewContact from "./components/AdminPanel/ViewContact";
 import Addservice from "./components/AdminPanel/Addservice";
 import CustomerLogin from "./components/UserPanel/CustomerLogin";
+import ViewBookedServices from "./components/AdminPanel/ViewBookedServices";
 
 function App() {
   return (
@@ -34,7 +35,7 @@ function App() {
         <Route path="/services" element={<Services />}></Route>
         <Route path="/AdminPage" element={<AdminPage />}></Route>
         <Route path="/AdminRegistration" element={<AdminRegistration />}></Route>
-        <Route path="/Login" element={<Login />}></Route>
+        {/* <Route path="/Login" element={<Login />}></Route> */}
         <Route path="/Adminlogin" element={<Adminlogin />}></Route>
       </Routes>
 
@@ -42,6 +43,7 @@ function App() {
        <Route path="/AdminPage" element={<AdminPage />}></Route>
        <Route path="/ViewContact" element={<ViewContact/>}></Route>
        <Route path="/Addservice" element={<Addservice/>}></Route>
+       <Route path="/ViewBookedServices" element={<ViewBookedServices/>}></Route>
       </Routes>
 
       <Routes>

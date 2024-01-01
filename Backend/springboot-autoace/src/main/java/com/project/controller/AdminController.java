@@ -18,8 +18,11 @@ import com.project.dto.LoginStatus;
 import com.project.dto.RegistrationStatus;
 import com.project.dto.Status;
 import com.project.entity.Admin;
+import com.project.entity.Customer;
 import com.project.exception.AdminServiceException;
+import com.project.repository.CustomerRepository;
 import com.project.service.AdminService;
+import com.project.service.CustomerService;
 
 
 @RestController
@@ -28,6 +31,9 @@ public class AdminController {
 	
 	@Autowired
 	private AdminService adminService;
+	
+	@Autowired
+	private CustomerService customerService;
 	
 	//add new admin
 	@PostMapping("/admin/register")
@@ -94,9 +100,17 @@ public class AdminController {
 			return status;
 		}
 	}
+	
+	
 	@GetMapping("/admin/fetch")
 	public List<Admin> getAllAdmin(){
 		return adminService.getAllAdmin();
+	}
+	
+	
+	@GetMapping("/admin/fetchAllCustomer")
+	public List<Customer> getAllCust(){
+		return customerService.getAllCustomers();
 	}
 	
 }

@@ -1,5 +1,6 @@
 package com.project.service;
 
+import java.util.List;
 import java.util.Optional;
 
 import org.springframework.beans.factory.annotation.Autowired;
@@ -30,6 +31,7 @@ public class BookingService{
     @Autowired
     private ServiceRepository serviceRepository;
 
+    //Adding Booking
     public Booking bookService(Booking booking, int customerId, int serviceId) {
         Optional<Customer> existingCustomer = customerRepository.findById(customerId);
         Optional<ServiceTable> existingService = serviceRepository.findById(serviceId);
@@ -44,5 +46,10 @@ public class BookingService{
         } else {
             throw new BookingException("Customer or Service does not exist");
         }
+    }
+    
+    // Fetching all Service 
+    public List<Booking> getAllBooking() {
+    	return bookingRepository.findAll();
     }
 }

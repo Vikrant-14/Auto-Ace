@@ -40,7 +40,7 @@ export default function AdminNavigationbar() {
               <Nav.Link>Add Service</Nav.Link>
             </LinkContainer>
 
-            <LinkContainer to="">
+            <LinkContainer to="/ViewBookedServices">
               <Nav.Link>View Booking</Nav.Link>
             </LinkContainer>
 

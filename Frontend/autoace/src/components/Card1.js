@@ -9,7 +9,7 @@ export default function Card1()
 {
   const Navigate=useNavigate();
   const handleButton=()=>{
-    Navigate('/Login');
+    Navigate('/CustomerLogin');
     }
 
   // const handleButtonChange=()=>{

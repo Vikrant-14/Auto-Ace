@@ -1,5 +1,7 @@
 package com.project.service;
 
+import java.util.List;
+
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
@@ -36,6 +38,11 @@ public class CustomerService {
 		else {
 			return customerRepository.findByEmail(email).get();
 		}
+	}
+	
+	//fetch Customer
+	public List<Customer> getAllCustomers() {
+		return customerRepository.findAll();
 	}
 	
 }
