@@ -1,0 +1,40 @@
+package com.project.controller;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.web.bind.annotation.PostMapping;
+import org.springframework.web.bind.annotation.RequestBody;
+import org.springframework.web.bind.annotation.RequestMapping;
+
+import com.project.dto.RegistrationStatus;
+import com.project.dto.Status;
+import com.project.entity.Customer;
+import com.project.exception.CustomerServiceException;
+import com.project.service.CustomerService;
+
+public class CustomerController {
+	
+	@Autowired
+	private CustomerService customerService;
+	
+	
+	@PostMapping("/customer/register")
+	public Status register(@RequestBody Customer customer) {
+		try {
+			int id = customerService.register(customer);
+			
+			RegistrationStatus status = new RegistrationStatus();
+			status.setStatus(true);
+			status.setMessageIfAny("Registration successful!");
+			status.setCustomerId(id);
+			return status;
+			
+		}catch(CustomerServiceException e) {
+			Status status = new Status();
+			status.setStatus(false);
+			status.setMessageIfAny(e.getMessage());
+			return status;
+		}
+	}
+	
+	
+}

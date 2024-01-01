@@ -1,0 +1,23 @@
+package com.project.entity;
+
+import java.time.LocalDate;
+
+import jakarta.persistence.JoinColumn;
+import jakarta.persistence.ManyToOne;
+
+public class Booking {
+	private int id;
+	private String vehicleModelName;
+	private String vehicleRegistrationNo;
+	private LocalDate serviceDate;
+	private String serviceCenter;
+	private String extraServiceDesc;
+	
+	@ManyToOne
+	@JoinColumn(name = "service_id")
+	private ServiceTable serviceTable;
+	
+	@ManyToOne
+	@JoinColumn(name = "customer_id")
+	private Customer customer;
+}

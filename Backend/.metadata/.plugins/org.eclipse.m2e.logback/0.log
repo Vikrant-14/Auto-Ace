@@ -1,0 +1,1121 @@
+2023-12-29 22:39:09,277 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-12-29 23:12:20,452 [Worker-29: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.project:springboot-autoace:0.0.1-SNAPSHOT @ C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\pom.xml.
+2023-12-29 23:12:24,446 [Worker-29: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /springboot-autoace/src/main/java
+2023-12-29 23:12:24,446 [Worker-29: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springboot-autoace/src/main/resources
+2023-12-29 23:12:24,452 [Worker-29: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springboot-autoace/src/main/resources
+2023-12-29 23:12:24,459 [Worker-29: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /springboot-autoace/src/test/java
+2023-12-29 23:12:24,460 [Worker-29: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springboot-autoace/src/test/resources
+2023-12-29 23:12:26,724 [Worker-29: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 10 sec
+2023-12-29 23:12:26,794 [Worker-29: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-12-29 23:12:27,990 [Worker-29: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.project:springboot-autoace:0.0.1-SNAPSHOT @ C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\pom.xml.
+2023-12-29 23:12:30,550 [Worker-29: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /springboot-autoace/src/main/java
+2023-12-29 23:12:30,551 [Worker-29: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springboot-autoace/src/main/resources
+2023-12-29 23:12:30,551 [Worker-29: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springboot-autoace/src/main/resources
+2023-12-29 23:12:30,552 [Worker-29: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /springboot-autoace/src/test/java
+2023-12-29 23:12:30,553 [Worker-29: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springboot-autoace/src/test/resources
+2023-12-29 23:12:32,010 [Worker-29: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 3.00 sec, update config takes 1.00 sec 
+2023-12-29 23:12:32,896 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-29 23:12:32,925 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-29 23:12:32,936 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-29 23:34:00,135 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-29 23:34:00,265 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-29 23:34:00,271 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-29 23:35:57,596 [Worker-45: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.project:springboot-autoace:0.0.1-SNAPSHOT @ C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\pom.xml.
+2023-12-29 23:35:58,729 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-29 23:35:58,731 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-29 23:35:58,738 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-30 00:03:50,289 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-30 00:03:50,346 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-30 00:03:50,352 [Worker-51: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-30 00:06:32,035 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-30 00:06:32,058 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-30 00:06:32,063 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-30 00:06:37,643 [Start Help Server] INFO  org.eclipse.jetty.server.Server - jetty-12.0.3; built: 2023-10-27T03:25:22.284Z; git: a873259fd5af141dedaa6c7fa8fe8fbdedce0d61; jvm 17.0.9+9
+2023-12-30 00:06:37,738 [Start Help Server] INFO  o.e.j.server.handler.ContextHandler - Started oeje8n.ContextHandler$CoreContextHandler@61366193{/help,/help,b=null,a=AVAILABLE,h=oeje8n.ContextHandler$CoreContextHandler$CoreToNestedHandler@6de451ea{STARTED}}
+2023-12-30 00:06:37,741 [Start Help Server] INFO  o.e.j.s.DefaultSessionIdManager - Session workerName=node0
+2023-12-30 00:06:37,786 [Start Help Server] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@4b85f883{HTTP/1.1, (http/1.1)}{127.0.0.1:64181}
+2023-12-30 00:06:37,800 [Start Help Server] INFO  org.eclipse.jetty.server.Server - Started oejs.Server@2c1de542{STARTING}[12.0.3,sto=0] @5289743ms
+2023-12-30 00:07:06,957 [Worker-49: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.project:springboot-autoace:0.0.1-SNAPSHOT @ C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\pom.xml.
+2023-12-30 00:07:08,688 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-30 00:07:08,689 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-30 00:07:08,699 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-30 00:20:22,532 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-30 00:20:22,566 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-30 00:20:22,571 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-30 00:21:19,271 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-30 00:21:19,338 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-30 00:21:19,346 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-30 00:22:11,983 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-30 00:22:11,987 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-30 00:22:11,992 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-30 00:22:57,684 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-30 00:22:57,727 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-30 00:22:57,735 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-30 00:24:43,402 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-30 00:24:43,405 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-30 00:24:43,409 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-30 00:38:47,721 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-30 00:38:47,752 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-30 00:38:47,758 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-30 00:40:11,011 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-30 00:40:11,014 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-30 00:40:11,026 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-30 00:52:11,245 [Worker-61: Launching SpringbootAutoaceApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-30 00:52:11,316 [Worker-61: Launching SpringbootAutoaceApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-30 00:52:11,327 [Worker-61: Launching SpringbootAutoaceApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-30 00:53:39,946 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-30 00:53:39,950 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-30 00:53:39,953 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-30 00:54:56,083 [Worker-63: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-12-30 00:54:56,723 [Worker-63: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.project:springboot-autoace:0.0.1-SNAPSHOT @ C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\pom.xml.
+2023-12-30 00:54:58,216 [Worker-63: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /springboot-autoace/src/main/java
+2023-12-30 00:54:58,216 [Worker-63: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springboot-autoace/src/main/resources
+2023-12-30 00:54:58,217 [Worker-63: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springboot-autoace/src/main/resources
+2023-12-30 00:54:58,217 [Worker-63: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /springboot-autoace/src/test/java
+2023-12-30 00:54:58,217 [Worker-63: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springboot-autoace/src/test/resources
+2023-12-30 00:54:59,114 [Worker-63: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 2.00 sec, update config takes 0.00 sec 
+2023-12-30 00:54:59,683 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-30 00:54:59,746 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-30 00:54:59,753 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-30 00:57:39,067 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-30 00:57:39,089 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-30 00:57:39,095 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-30 00:59:37,231 [Worker-63: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.project:springboot-autoace:0.0.1-SNAPSHOT @ C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\pom.xml.
+2023-12-30 00:59:38,611 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-30 00:59:38,612 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-30 00:59:38,618 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-30 00:59:43,815 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-30 00:59:43,816 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-30 00:59:43,820 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-30 01:00:48,008 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-30 01:00:48,009 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-30 01:00:48,012 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-30 01:02:00,854 [Worker-57: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.project:springboot-autoace:0.0.1-SNAPSHOT @ C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\pom.xml.
+2023-12-30 01:02:02,109 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-30 01:02:02,110 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-30 01:02:02,116 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-30 01:02:22,345 [Worker-66: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-12-30 01:02:22,773 [Worker-66: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.project:springboot-autoace:0.0.1-SNAPSHOT @ C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\pom.xml.
+2023-12-30 01:02:23,878 [Worker-66: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /springboot-autoace/src/main/java
+2023-12-30 01:02:23,879 [Worker-66: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springboot-autoace/src/main/resources
+2023-12-30 01:02:23,879 [Worker-66: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springboot-autoace/src/main/resources
+2023-12-30 01:02:23,880 [Worker-66: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /springboot-autoace/src/test/java
+2023-12-30 01:02:23,880 [Worker-66: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springboot-autoace/src/test/resources
+2023-12-30 01:02:24,516 [Worker-66: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 1.00 sec, update config takes 0.00 sec 
+2023-12-30 01:02:24,798 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-30 01:02:24,798 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-30 01:02:24,803 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-30 01:05:12,119 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-30 01:05:12,120 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-30 01:05:12,125 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-30 01:09:36,578 [Worker-69: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.project:spring-project-autoace:0.0.1-SNAPSHOT @ C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\spring-project-autoace\pom.xml.
+2023-12-30 01:09:38,594 [Worker-69: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring-project-autoace/src/main/java
+2023-12-30 01:09:38,594 [Worker-69: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /spring-project-autoace/src/main/resources
+2023-12-30 01:09:38,598 [Worker-69: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /spring-project-autoace/src/main/resources
+2023-12-30 01:09:38,601 [Worker-69: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring-project-autoace/src/test/java
+2023-12-30 01:09:38,602 [Worker-69: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /spring-project-autoace/src/test/resources
+2023-12-30 01:09:39,370 [Worker-69: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 3 sec
+2023-12-30 01:09:40,023 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-30 01:09:40,048 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-30 01:09:40,053 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\spring-project-autoace\src\test\resources
+2023-12-30 01:10:26,908 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-30 01:10:26,971 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-30 01:10:26,978 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\spring-project-autoace\src\test\resources
+2023-12-30 01:10:33,742 [Worker-77: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-30 01:10:33,752 [Worker-77: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-30 01:10:33,756 [Worker-77: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-30 01:11:21,064 [Worker-76: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-30 01:11:21,069 [Worker-76: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-30 01:11:21,075 [Worker-76: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\spring-project-autoace\src\test\resources
+2023-12-30 01:11:28,979 [Worker-77: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration SpringbootAutoaceApplication references closed project springboot-autoace
+org.eclipse.core.runtime.CoreException: Launch configuration SpringbootAutoaceApplication references closed project springboot-autoace
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1858)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1732)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:64)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:50)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:220)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:204)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:527)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:415)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:409)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:435)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:135)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:888)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:1040)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:162)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:394)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:275)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:214)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:106)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2023-12-30 01:11:28,995 [Worker-77: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration SpringbootAutoaceApplication references closed project springboot-autoace
+org.eclipse.core.runtime.CoreException: Launch configuration SpringbootAutoaceApplication references closed project springboot-autoace
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1858)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1732)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:64)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:50)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:220)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:204)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:527)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:415)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:410)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:435)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:135)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:888)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:1040)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:162)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:394)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:275)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:214)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:106)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2023-12-30 01:11:29,000 [Worker-77: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration SpringbootAutoaceApplication references closed project springboot-autoace
+org.eclipse.core.runtime.CoreException: Launch configuration SpringbootAutoaceApplication references closed project springboot-autoace
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1858)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1732)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:64)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:50)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:220)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:204)
+	at org.eclipse.debug.internal.core.LaunchManager.launchConfigurationChanged(LaunchManager.java:2010)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.writeNewFile(LaunchConfigurationWorkingCopy.java:380)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave0(LaunchConfigurationWorkingCopy.java:259)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:229)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:187)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:411)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:435)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:135)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:888)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:1040)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:162)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:394)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:275)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:214)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:106)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2023-12-30 01:15:15,564 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-30 01:15:15,593 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-30 01:15:15,597 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\spring-project-autoace\src\test\resources
+2023-12-30 01:15:51,992 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-30 01:15:52,078 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-30 01:15:52,084 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\spring-project-autoace\src\test\resources
+2023-12-30 01:16:27,418 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-30 01:16:27,478 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-30 01:16:27,483 [Worker-75: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\spring-project-autoace\src\test\resources
+2023-12-30 01:20:53,222 [Worker-83: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-30 01:20:53,248 [Worker-83: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-30 01:20:53,262 [Worker-83: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\spring-project-autoace\src\test\resources
+2023-12-30 01:22:18,759 [Worker-85: Launching SpringProjectAutoaceApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-30 01:22:18,764 [Worker-85: Launching SpringProjectAutoaceApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-30 01:22:18,771 [Worker-85: Launching SpringProjectAutoaceApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\spring-project-autoace\src\test\resources
+2023-12-30 01:34:10,534 [Worker-88: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-30 01:34:10,547 [Worker-88: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-30 01:34:10,557 [Worker-88: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\spring-project-autoace\src\test\resources
+2023-12-30 01:35:30,335 [Stop Help Server] INFO  org.eclipse.jetty.server.Server - Stopped oejs.Server@2c1de542{STOPPING}[12.0.3,sto=0]
+2023-12-30 01:35:30,355 [Stop Help Server] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@4b85f883{HTTP/1.1, (http/1.1)}{127.0.0.1:0}
+2023-12-30 09:08:47,169 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-12-30 09:09:17,023 [Start Help Server] INFO  org.eclipse.jetty.server.Server - jetty-12.0.3; built: 2023-10-27T03:25:22.284Z; git: a873259fd5af141dedaa6c7fa8fe8fbdedce0d61; jvm 17.0.9+9
+2023-12-30 09:09:17,105 [Start Help Server] INFO  o.e.j.server.handler.ContextHandler - Started oeje8n.ContextHandler$CoreContextHandler@e10b96d{/help,/help,b=null,a=AVAILABLE,h=oeje8n.ContextHandler$CoreContextHandler$CoreToNestedHandler@32d4a857{STARTED}}
+2023-12-30 09:09:17,107 [Start Help Server] INFO  o.e.j.s.DefaultSessionIdManager - Session workerName=node0
+2023-12-30 09:09:17,155 [Start Help Server] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@5536b11e{HTTP/1.1, (http/1.1)}{127.0.0.1:50491}
+2023-12-30 09:09:17,185 [Start Help Server] INFO  org.eclipse.jetty.server.Server - Started oejs.Server@6eb770e3{STARTING}[12.0.3,sto=0] @66385ms
+2023-12-30 09:12:21,462 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-30 09:12:21,478 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-30 09:12:21,484 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\spring-project-autoace\src\test\resources
+2023-12-30 09:28:45,584 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-30 09:28:45,593 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-30 09:28:45,601 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\spring-project-autoace\src\test\resources
+2023-12-30 09:28:46,740 [Worker-21: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration SpringProjectAutoaceApplication references closed project spring-project-autoace
+org.eclipse.core.runtime.CoreException: Launch configuration SpringProjectAutoaceApplication references closed project spring-project-autoace
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1858)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1732)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:64)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:50)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:220)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:204)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:527)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:415)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:409)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:435)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:135)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:888)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:1040)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:162)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:394)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:275)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:214)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:106)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2023-12-30 09:28:46,746 [Worker-21: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration SpringProjectAutoaceApplication references closed project spring-project-autoace
+org.eclipse.core.runtime.CoreException: Launch configuration SpringProjectAutoaceApplication references closed project spring-project-autoace
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1858)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1732)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:64)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:50)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:220)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:204)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:527)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:415)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:410)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:435)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:135)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:888)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:1040)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:162)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:394)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:275)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:214)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:106)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2023-12-30 09:28:46,753 [Worker-21: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration SpringProjectAutoaceApplication references closed project spring-project-autoace
+org.eclipse.core.runtime.CoreException: Launch configuration SpringProjectAutoaceApplication references closed project spring-project-autoace
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1858)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1732)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:64)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:50)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:220)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:47)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:204)
+	at org.eclipse.debug.internal.core.LaunchManager.launchConfigurationChanged(LaunchManager.java:2010)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.writeNewFile(LaunchConfigurationWorkingCopy.java:380)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave0(LaunchConfigurationWorkingCopy.java:259)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:229)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:187)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:411)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:435)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:135)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:888)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:1040)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:162)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:394)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:275)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:214)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:106)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2023-12-30 09:28:49,258 [Worker-21: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.project:springboot-autoace:0.0.1-SNAPSHOT @ C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\pom.xml.
+2023-12-30 10:08:09,988 [Worker-41: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.cdac:springboot-autoace:0.0.1-SNAPSHOT @ C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\pom.xml.
+2023-12-30 10:08:10,872 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-30 10:08:11,047 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-30 10:08:11,053 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-30 11:35:09,920 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-30 11:35:09,946 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-30 11:35:09,952 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-30 13:53:02,477 [Worker-76: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-30 13:53:02,553 [Worker-76: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-30 13:53:02,559 [Worker-76: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-30 15:49:53,829 [Worker-89: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-30 15:49:53,897 [Worker-89: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-30 15:49:53,902 [Worker-89: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-30 15:51:54,367 [Worker-85: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-30 15:51:54,398 [Worker-85: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-30 15:51:54,403 [Worker-85: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-30 15:55:57,424 [Worker-88: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-30 15:55:57,444 [Worker-88: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-30 15:55:57,450 [Worker-88: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-30 15:56:52,474 [Worker-88: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-30 15:56:52,480 [Worker-88: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-30 15:56:52,486 [Worker-88: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-30 16:00:46,503 [Worker-91: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-30 16:00:46,508 [Worker-91: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-30 16:00:46,514 [Worker-91: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-30 16:01:42,970 [Worker-89: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-30 16:01:43,038 [Worker-89: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-30 16:01:43,042 [Worker-89: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-30 16:02:42,161 [Worker-91: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-30 16:02:42,204 [Worker-91: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-30 16:02:42,208 [Worker-91: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-30 16:03:06,311 [Worker-85: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-30 16:03:06,317 [Worker-85: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-30 16:03:06,341 [Worker-85: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-30 16:03:36,876 [Worker-89: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-30 16:03:36,882 [Worker-89: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-30 16:03:36,887 [Worker-89: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-30 16:03:50,111 [Worker-85: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-30 16:03:50,116 [Worker-85: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-30 16:03:50,121 [Worker-85: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-30 16:04:11,385 [Worker-91: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-30 16:04:11,390 [Worker-91: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-30 16:04:11,394 [Worker-91: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-30 16:04:24,875 [Worker-91: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-30 16:04:24,880 [Worker-91: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-30 16:04:24,884 [Worker-91: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-30 16:04:32,890 [Worker-91: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-30 16:04:32,896 [Worker-91: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-30 16:04:32,902 [Worker-91: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-30 16:11:13,223 [Worker-85: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-30 16:11:13,230 [Worker-85: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-30 16:11:13,234 [Worker-85: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-30 16:14:51,789 [Worker-97: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-30 16:14:51,795 [Worker-97: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-30 16:14:51,800 [Worker-97: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-30 16:14:56,586 [Worker-94: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-30 16:14:56,599 [Worker-94: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-30 16:14:56,604 [Worker-94: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-30 16:18:13,349 [Worker-94: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-30 16:18:13,358 [Worker-94: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-30 16:18:13,364 [Worker-94: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-30 16:27:49,664 [Worker-101: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-12-30 16:27:49,991 [Worker-101: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.cdac:springboot-autoace:0.0.1-SNAPSHOT @ C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\pom.xml.
+2023-12-30 16:27:50,992 [Worker-101: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /springboot-autoace/src/main/java
+2023-12-30 16:27:50,992 [Worker-101: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springboot-autoace/src/main/resources
+2023-12-30 16:27:50,992 [Worker-101: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springboot-autoace/src/main/resources
+2023-12-30 16:27:50,994 [Worker-101: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /springboot-autoace/src/test/java
+2023-12-30 16:27:50,995 [Worker-101: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springboot-autoace/src/test/resources
+2023-12-30 16:27:51,338 [Worker-101: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 1.00 sec, update config takes 0.00 sec 
+2023-12-30 16:27:51,622 [Worker-96: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-30 16:27:51,636 [Worker-96: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-30 16:27:51,639 [Worker-96: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-30 16:27:57,157 [Worker-101: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-30 16:27:57,159 [Worker-101: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-30 16:27:57,161 [Worker-101: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-30 16:28:42,926 [Worker-102: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-30 16:28:42,939 [Worker-102: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-30 16:28:42,942 [Worker-102: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-30 16:31:51,929 [Worker-104: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-30 16:31:51,982 [Worker-104: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-30 16:31:51,984 [Worker-104: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-30 16:32:18,817 [Worker-104: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-12-30 16:32:19,089 [Worker-104: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.cdac:springboot-autoace:0.0.1-SNAPSHOT @ C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\pom.xml.
+2023-12-30 16:32:19,778 [Worker-104: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /springboot-autoace/src/main/java
+2023-12-30 16:32:19,778 [Worker-104: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springboot-autoace/src/main/resources
+2023-12-30 16:32:19,780 [Worker-104: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springboot-autoace/src/main/resources
+2023-12-30 16:32:19,780 [Worker-104: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /springboot-autoace/src/test/java
+2023-12-30 16:32:19,780 [Worker-104: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springboot-autoace/src/test/resources
+2023-12-30 16:32:20,072 [Worker-104: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 0.00 sec, update config takes 0.00 sec 
+2023-12-30 16:32:20,396 [Worker-106: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-30 16:32:20,408 [Worker-106: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-30 16:32:20,412 [Worker-106: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-30 16:32:46,800 [Worker-110: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-30 16:32:46,806 [Worker-110: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-30 16:32:46,808 [Worker-110: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-30 16:35:16,169 [Worker-106: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-30 16:35:16,180 [Worker-106: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-30 16:35:16,182 [Worker-106: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-30 16:35:17,823 [Stop Help Server] INFO  org.eclipse.jetty.server.Server - Stopped oejs.Server@6eb770e3{STOPPING}[12.0.3,sto=0]
+2023-12-30 16:35:17,830 [Stop Help Server] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@5536b11e{HTTP/1.1, (http/1.1)}{127.0.0.1:0}
+2023-12-30 16:35:30,361 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-12-30 16:36:00,405 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-30 16:36:00,502 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-30 16:36:00,510 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-30 16:38:42,424 [Start Help Server] INFO  org.eclipse.jetty.server.Server - jetty-12.0.3; built: 2023-10-27T03:25:22.284Z; git: a873259fd5af141dedaa6c7fa8fe8fbdedce0d61; jvm 17.0.9+9
+2023-12-30 16:38:42,481 [Start Help Server] INFO  o.e.j.server.handler.ContextHandler - Started oeje8n.ContextHandler$CoreContextHandler@69cf5173{/help,/help,b=null,a=AVAILABLE,h=oeje8n.ContextHandler$CoreContextHandler$CoreToNestedHandler@77773fb1{STARTED}}
+2023-12-30 16:38:42,482 [Start Help Server] INFO  o.e.j.s.DefaultSessionIdManager - Session workerName=node0
+2023-12-30 16:38:42,517 [Start Help Server] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@64b68815{HTTP/1.1, (http/1.1)}{127.0.0.1:52420}
+2023-12-30 16:38:42,546 [Start Help Server] INFO  org.eclipse.jetty.server.Server - Started oejs.Server@416d1f26{STARTING}[12.0.3,sto=0] @203838ms
+2023-12-30 16:43:45,900 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-30 16:43:45,954 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-30 16:43:45,959 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-30 16:44:11,615 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-30 16:44:11,630 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-30 16:44:11,633 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-30 16:45:02,052 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-30 16:45:02,056 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-30 16:45:02,059 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-30 16:47:01,471 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-30 16:47:01,504 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-30 16:47:01,508 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-30 16:47:14,974 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-30 16:47:14,981 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-30 16:47:14,984 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-30 16:47:17,129 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-30 16:47:17,143 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-30 16:47:17,148 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-30 16:56:40,859 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-30 16:56:40,864 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-30 16:56:40,870 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-30 16:57:44,775 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-30 16:57:44,784 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-30 16:57:44,788 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-30 16:57:53,242 [Worker-30: Launching SpringbootAutoaceApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-30 16:57:53,249 [Worker-30: Launching SpringbootAutoaceApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-30 16:57:53,254 [Worker-30: Launching SpringbootAutoaceApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-30 16:59:36,819 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-30 16:59:36,861 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-30 16:59:36,863 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-30 17:04:21,679 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-30 17:04:21,683 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-30 17:04:21,687 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-30 17:09:31,867 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-30 17:09:31,891 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-30 17:09:31,897 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-30 17:10:13,740 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-30 17:10:13,874 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-30 17:10:13,878 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-30 17:11:09,549 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-30 17:11:09,715 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-30 17:11:09,720 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-30 17:13:55,146 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-30 17:13:55,264 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-30 17:13:55,271 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-30 17:14:02,209 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-30 17:14:02,254 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-30 17:14:02,258 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-30 17:14:15,220 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-30 17:14:15,332 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-30 17:14:15,337 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-30 17:20:55,078 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-30 17:20:55,090 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-30 17:20:55,096 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-30 17:21:29,649 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-30 17:21:29,678 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-30 17:21:29,684 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-30 17:23:29,737 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-30 17:23:29,742 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-30 17:23:29,746 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-30 17:24:12,333 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-30 17:24:12,343 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-30 17:24:12,347 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-30 17:27:10,147 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-30 17:27:10,153 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-30 17:27:10,157 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-30 17:27:32,537 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-30 17:27:32,542 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-30 17:27:32,547 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-30 18:03:27,986 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-30 18:03:28,023 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-30 18:03:28,027 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-30 18:04:01,134 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-30 18:04:01,195 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-30 18:04:01,200 [Worker-53: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-30 18:20:46,443 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-30 18:20:46,452 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-30 18:20:46,457 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-30 19:31:17,289 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-30 19:31:17,336 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-30 19:31:17,342 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-30 19:31:19,965 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-30 19:31:20,081 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-30 19:31:20,085 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-30 19:34:15,390 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-30 19:34:15,397 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-30 19:34:15,400 [Worker-67: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-30 20:03:55,510 [Worker-76: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-30 20:03:55,544 [Worker-76: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-30 20:03:55,549 [Worker-76: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-30 20:04:33,595 [Worker-71: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-30 20:04:33,697 [Worker-71: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-30 20:04:33,703 [Worker-71: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-30 20:11:12,849 [Worker-77: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-30 20:11:12,872 [Worker-77: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-30 20:11:12,876 [Worker-77: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-30 20:11:29,284 [Worker-77: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-30 20:11:29,297 [Worker-77: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-30 20:11:29,301 [Worker-77: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-30 20:33:23,495 [Worker-86: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-30 20:33:23,568 [Worker-86: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-30 20:33:23,572 [Worker-86: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-30 20:37:17,753 [Worker-84: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-30 20:37:17,780 [Worker-84: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-30 20:37:17,785 [Worker-84: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-30 20:38:10,478 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-30 20:38:10,501 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-30 20:38:10,506 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-30 20:38:51,324 [Worker-90: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-30 20:38:51,329 [Worker-90: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-30 20:38:51,334 [Worker-90: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-30 20:43:39,670 [Worker-92: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-30 20:43:39,674 [Worker-92: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-30 20:43:39,679 [Worker-92: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-30 20:55:42,056 [Worker-96: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-30 20:55:42,140 [Worker-96: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-30 20:55:42,154 [Worker-96: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-30 21:00:30,485 [Worker-100: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-30 21:00:30,513 [Worker-100: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-30 21:00:30,519 [Worker-100: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-30 21:04:33,091 [Worker-101: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-30 21:04:33,126 [Worker-101: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-30 21:04:33,132 [Worker-101: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-30 21:04:47,474 [Worker-103: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-30 21:04:47,505 [Worker-103: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-30 21:04:47,511 [Worker-103: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-30 21:09:36,488 [Worker-104: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-30 21:09:36,496 [Worker-104: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-30 21:09:36,502 [Worker-104: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-30 21:14:39,524 [Worker-103: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-30 21:14:39,565 [Worker-103: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-30 21:14:39,571 [Worker-103: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-30 21:16:40,907 [Worker-110: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-30 21:16:40,923 [Worker-110: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-30 21:16:40,927 [Worker-110: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-30 21:25:04,257 [Worker-113: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-30 21:25:04,294 [Worker-113: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-30 21:25:04,299 [Worker-113: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-30 21:25:15,762 [Worker-111: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-30 21:25:15,792 [Worker-111: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-30 21:25:15,797 [Worker-111: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-30 21:28:27,433 [Worker-114: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-30 21:28:27,446 [Worker-114: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-30 21:28:27,451 [Worker-114: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-30 22:01:38,307 [Worker-119: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-30 22:01:38,328 [Worker-119: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-30 22:01:38,335 [Worker-119: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-30 22:05:54,105 [Worker-121: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-30 22:05:54,119 [Worker-121: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-30 22:05:54,125 [Worker-121: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-30 22:09:34,468 [Worker-121: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-30 22:09:34,532 [Worker-121: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-30 22:09:34,537 [Worker-121: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-30 23:52:21,155 [Worker-140: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-30 23:52:21,232 [Worker-140: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-30 23:52:22,056 [Worker-140: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-30 23:54:31,983 [Worker-146: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-30 23:54:32,009 [Worker-146: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-30 23:54:32,014 [Worker-146: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-30 23:55:49,040 [Worker-145: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-30 23:55:49,048 [Worker-145: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-30 23:55:49,053 [Worker-145: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-31 00:02:21,388 [Worker-146: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-31 00:02:21,413 [Worker-146: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-31 00:02:21,418 [Worker-146: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-31 00:02:44,516 [Worker-145: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-31 00:02:44,521 [Worker-145: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-31 00:02:44,526 [Worker-145: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-31 00:03:49,459 [Worker-152: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-31 00:03:49,569 [Worker-152: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-31 00:03:49,574 [Worker-152: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-31 00:04:56,800 [Worker-153: Launching SpringbootAutoaceApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-31 00:04:56,805 [Worker-153: Launching SpringbootAutoaceApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-31 00:04:56,812 [Worker-153: Launching SpringbootAutoaceApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-31 00:05:06,533 [Worker-153: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-31 00:05:06,538 [Worker-153: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-31 00:05:06,543 [Worker-153: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-31 00:09:44,433 [Worker-154: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-31 00:09:44,441 [Worker-154: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-31 00:09:44,446 [Worker-154: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-31 00:12:45,295 [Worker-157: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-31 00:12:45,301 [Worker-157: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-31 00:12:45,305 [Worker-157: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-31 00:12:52,794 [Worker-156: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-31 00:12:52,798 [Worker-156: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-31 00:12:52,805 [Worker-156: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-31 00:24:09,826 [Worker-159: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-31 00:24:09,843 [Worker-159: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-31 00:24:09,848 [Worker-159: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-31 00:27:26,359 [Worker-160: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-31 00:27:26,424 [Worker-160: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-31 00:27:26,432 [Worker-160: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-31 00:37:34,876 [Worker-162: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-31 00:37:34,911 [Worker-162: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-31 00:37:34,917 [Worker-162: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-31 00:38:00,571 [Worker-162: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-31 00:38:00,602 [Worker-162: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-31 00:38:00,610 [Worker-162: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-31 01:03:17,286 [Worker-168: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-31 01:03:17,350 [Worker-168: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-31 01:03:17,659 [Worker-168: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-31 01:32:17,719 [Worker-175: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-31 01:32:17,799 [Worker-175: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-31 01:32:17,804 [Worker-175: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-31 01:35:37,900 [Worker-175: Launching SpringbootAutoaceApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-31 01:35:37,927 [Worker-175: Launching SpringbootAutoaceApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-31 01:35:37,931 [Worker-175: Launching SpringbootAutoaceApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-31 01:38:07,209 [Worker-173: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-31 01:38:07,242 [Worker-173: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-31 01:38:07,250 [Worker-173: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-31 01:38:47,094 [Worker-178: Launching SpringbootAutoaceApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-31 01:38:47,164 [Worker-178: Launching SpringbootAutoaceApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-31 01:38:47,170 [Worker-178: Launching SpringbootAutoaceApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-31 01:42:40,695 [Worker-178: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-31 01:42:40,747 [Worker-178: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-31 01:42:40,758 [Worker-178: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-31 02:01:54,692 [Worker-186: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-31 02:01:54,716 [Worker-186: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-31 02:01:54,721 [Worker-186: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-31 02:03:36,705 [Worker-190: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-31 02:03:36,741 [Worker-190: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-31 02:03:36,746 [Worker-190: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-31 02:04:33,804 [Worker-187: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-31 02:04:33,808 [Worker-187: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-31 02:04:33,813 [Worker-187: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-31 02:23:12,705 [Stop Help Server] INFO  org.eclipse.jetty.server.Server - Stopped oejs.Server@416d1f26{STOPPING}[12.0.3,sto=0]
+2023-12-31 02:23:12,734 [Stop Help Server] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@64b68815{HTTP/1.1, (http/1.1)}{127.0.0.1:0}
+2023-12-31 10:01:37,345 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-12-31 10:14:20,724 [Start Help Server] INFO  org.eclipse.jetty.server.Server - jetty-12.0.3; built: 2023-10-27T03:25:22.284Z; git: a873259fd5af141dedaa6c7fa8fe8fbdedce0d61; jvm 17.0.9+9
+2023-12-31 10:14:20,788 [Start Help Server] INFO  o.e.j.server.handler.ContextHandler - Started oeje8n.ContextHandler$CoreContextHandler@5efa859{/help,/help,b=null,a=AVAILABLE,h=oeje8n.ContextHandler$CoreContextHandler$CoreToNestedHandler@7efd2f3e{STARTED}}
+2023-12-31 10:14:20,789 [Start Help Server] INFO  o.e.j.s.DefaultSessionIdManager - Session workerName=node0
+2023-12-31 10:14:20,826 [Start Help Server] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@54065249{HTTP/1.1, (http/1.1)}{127.0.0.1:60592}
+2023-12-31 10:14:20,848 [Start Help Server] INFO  org.eclipse.jetty.server.Server - Started oejs.Server@479a7e80{STARTING}[12.0.3,sto=0] @875759ms
+2023-12-31 10:42:47,171 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-31 10:42:47,233 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-31 10:42:47,239 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-31 10:43:55,716 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-31 10:43:55,822 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-31 10:43:55,825 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-31 10:44:06,810 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-31 10:44:06,817 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-31 10:44:06,821 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-31 10:45:45,331 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-31 10:45:45,360 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-31 10:45:45,364 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-31 10:50:02,911 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-31 10:50:02,914 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-31 10:50:02,918 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-31 10:50:10,448 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-31 10:50:10,478 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-31 10:50:10,480 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-31 10:54:32,257 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-31 10:54:32,265 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-31 10:54:32,268 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-31 10:54:49,874 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-31 10:54:49,905 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-31 10:54:49,910 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-31 10:55:23,282 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-31 10:55:23,312 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-31 10:55:23,314 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-31 10:55:48,621 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-31 10:55:48,674 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-31 10:55:48,681 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-31 11:00:23,420 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-31 11:00:23,424 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-31 11:00:23,427 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-31 11:00:44,431 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-31 11:00:44,434 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-31 11:00:44,436 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-31 11:01:03,828 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-31 11:01:03,833 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-31 11:01:03,838 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-31 11:05:13,090 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-31 11:05:13,093 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-31 11:05:13,095 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-31 11:06:59,109 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-31 11:06:59,113 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-31 11:06:59,116 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-31 11:13:26,570 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-31 11:13:26,577 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-31 11:13:26,584 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-31 11:18:54,005 [Worker-60: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-12-31 11:18:54,961 [Worker-60: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.cdac:springboot-autoace:0.0.1-SNAPSHOT @ C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\pom.xml.
+2023-12-31 11:18:56,477 [Worker-60: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /springboot-autoace/src/main/java
+2023-12-31 11:18:56,478 [Worker-60: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springboot-autoace/src/main/resources
+2023-12-31 11:18:56,478 [Worker-60: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springboot-autoace/src/main/resources
+2023-12-31 11:18:56,479 [Worker-60: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /springboot-autoace/src/test/java
+2023-12-31 11:18:56,481 [Worker-60: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springboot-autoace/src/test/resources
+2023-12-31 11:18:57,222 [Worker-60: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 2.00 sec, update config takes 0.00 sec 
+2023-12-31 11:18:57,737 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-31 11:18:57,766 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-31 11:18:57,775 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-31 11:24:52,861 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-31 11:24:52,932 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-31 11:24:52,936 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-31 11:29:20,366 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-31 11:29:20,487 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-31 11:29:20,489 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-31 11:32:12,978 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-31 11:32:13,000 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-31 11:32:13,006 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-31 11:32:55,111 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-31 11:32:55,118 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-31 11:32:55,122 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-31 11:33:40,721 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-31 11:33:40,726 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-31 11:33:40,730 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-31 11:34:30,544 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-31 11:34:30,548 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-31 11:34:30,551 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-31 11:35:10,799 [Worker-69: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-31 11:35:10,803 [Worker-69: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-31 11:35:10,809 [Worker-69: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-31 11:35:23,016 [Worker-69: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-31 11:35:23,022 [Worker-69: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-31 11:35:23,025 [Worker-69: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-31 11:35:28,750 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-31 11:35:28,755 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-31 11:35:28,759 [Worker-68: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-31 11:37:29,522 [Worker-71: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-31 11:37:29,545 [Worker-71: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-31 11:37:29,549 [Worker-71: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-31 11:47:53,994 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-31 11:47:53,999 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-31 11:47:54,004 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-31 11:57:26,230 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-31 11:57:26,236 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-31 11:57:26,238 [Worker-73: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-31 12:09:04,773 [Worker-84: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-31 12:09:04,778 [Worker-84: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-31 12:09:04,784 [Worker-84: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-31 14:01:12,529 [Worker-103: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-31 14:01:12,621 [Worker-103: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-31 14:01:12,627 [Worker-103: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-31 14:08:25,953 [Worker-105: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-31 14:08:26,060 [Worker-105: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-31 14:08:26,066 [Worker-105: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-31 14:08:34,424 [Worker-105: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-31 14:08:34,475 [Worker-105: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-31 14:08:34,479 [Worker-105: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-31 14:11:29,719 [Worker-103: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-31 14:11:29,776 [Worker-103: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-31 14:11:29,781 [Worker-103: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-31 14:11:59,660 [Worker-103: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-31 14:11:59,729 [Worker-103: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-31 14:11:59,734 [Worker-103: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-31 14:12:39,643 [Worker-103: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-31 14:12:39,647 [Worker-103: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-31 14:12:39,652 [Worker-103: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-31 14:13:15,733 [Worker-107: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-31 14:13:15,801 [Worker-107: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-31 14:13:15,806 [Worker-107: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-31 14:30:50,639 [Worker-108: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-31 14:30:50,682 [Worker-108: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-31 14:30:50,687 [Worker-108: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-31 14:35:56,039 [Worker-112: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-31 14:35:56,044 [Worker-112: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-31 14:35:56,046 [Worker-112: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-31 14:36:41,642 [Worker-114: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-31 14:36:41,646 [Worker-114: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-31 14:36:41,652 [Worker-114: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-31 14:37:05,482 [Worker-115: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-31 14:37:05,528 [Worker-115: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-31 14:37:05,534 [Worker-115: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-31 14:37:21,231 [Worker-110: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-31 14:37:21,378 [Worker-110: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-31 14:37:21,382 [Worker-110: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-31 14:37:43,093 [Worker-114: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-31 14:37:43,214 [Worker-114: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-31 14:37:43,218 [Worker-114: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-31 14:39:04,005 [Worker-114: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-31 14:39:04,131 [Worker-114: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-31 14:39:04,135 [Worker-114: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-31 14:46:00,313 [Worker-119: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-31 14:46:00,318 [Worker-119: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-31 14:46:00,324 [Worker-119: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-31 14:47:54,672 [Worker-120: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-31 14:47:54,676 [Worker-120: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-31 14:47:54,682 [Worker-120: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-31 14:48:17,430 [Worker-118: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-31 14:48:17,434 [Worker-118: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-31 14:48:17,439 [Worker-118: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-31 15:53:43,307 [Worker-136: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-31 15:53:43,412 [Worker-136: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-31 15:53:43,417 [Worker-136: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-31 15:54:40,670 [Worker-136: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-31 15:54:40,758 [Worker-136: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-31 15:54:40,761 [Worker-136: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-31 15:57:00,763 [Worker-138: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-31 15:57:00,799 [Worker-138: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-31 15:57:00,804 [Worker-138: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-31 15:59:06,430 [Worker-138: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-31 15:59:06,465 [Worker-138: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-31 15:59:06,469 [Worker-138: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-31 15:59:46,905 [Worker-139: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-31 15:59:46,974 [Worker-139: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-31 15:59:46,979 [Worker-139: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-31 16:13:11,166 [Worker-144: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-31 16:13:11,178 [Worker-144: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-31 16:13:11,183 [Worker-144: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-31 16:13:31,221 [Worker-136: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-31 16:13:31,227 [Worker-136: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-31 16:13:31,229 [Worker-136: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-31 16:13:39,344 [Worker-145: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-31 16:13:39,348 [Worker-145: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-31 16:13:39,351 [Worker-145: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-31 16:13:55,340 [Worker-144: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-31 16:13:55,343 [Worker-144: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-31 16:13:55,346 [Worker-144: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-31 16:31:23,790 [Worker-148: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-31 16:31:23,972 [Worker-148: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-31 16:31:23,977 [Worker-148: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-31 16:36:05,225 [Worker-151: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-31 16:36:05,262 [Worker-151: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-31 16:36:05,267 [Worker-151: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-31 17:16:22,014 [Worker-156: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-31 17:16:22,060 [Worker-156: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-31 17:16:22,063 [Worker-156: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-31 17:16:35,514 [Worker-158: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-31 17:16:35,533 [Worker-158: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-31 17:16:35,538 [Worker-158: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-31 17:18:25,728 [Worker-156: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-31 17:18:25,775 [Worker-156: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-31 17:18:25,781 [Worker-156: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-31 17:19:42,189 [Worker-157: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-31 17:19:42,192 [Worker-157: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-31 17:19:42,197 [Worker-157: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-31 17:20:29,060 [Worker-158: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-31 17:20:29,065 [Worker-158: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-31 17:20:29,074 [Worker-158: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-31 17:21:15,018 [Worker-157: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-31 17:21:15,026 [Worker-157: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-31 17:21:15,030 [Worker-157: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-31 17:21:51,248 [Worker-156: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-31 17:21:51,251 [Worker-156: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-31 17:21:51,255 [Worker-156: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-31 17:21:58,659 [Worker-156: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-31 17:21:58,667 [Worker-156: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-31 17:21:58,676 [Worker-156: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-31 17:22:31,940 [Worker-156: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-31 17:22:31,959 [Worker-156: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-31 17:22:31,967 [Worker-156: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-31 17:22:46,042 [Worker-158: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-31 17:22:46,045 [Worker-158: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-31 17:22:46,048 [Worker-158: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-31 17:24:04,086 [Worker-157: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-31 17:24:04,090 [Worker-157: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-31 17:24:04,097 [Worker-157: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-31 17:25:28,758 [Worker-157: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-31 17:25:28,761 [Worker-157: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-31 17:25:28,765 [Worker-157: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-31 17:25:51,799 [Worker-158: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-31 17:25:51,805 [Worker-158: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-31 17:25:51,812 [Worker-158: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-31 17:26:19,181 [Worker-158: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-31 17:26:19,185 [Worker-158: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-31 17:26:19,189 [Worker-158: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-31 17:27:01,782 [Worker-161: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-31 17:27:01,788 [Worker-161: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-31 17:27:01,794 [Worker-161: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-31 17:28:13,625 [Worker-158: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-31 17:28:13,629 [Worker-158: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-31 17:28:13,633 [Worker-158: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-31 17:37:17,971 [Worker-162: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-31 17:37:17,974 [Worker-162: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-31 17:37:17,977 [Worker-162: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-31 17:38:17,545 [Worker-164: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-31 17:38:17,552 [Worker-164: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-31 17:38:17,554 [Worker-164: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-31 17:38:52,296 [Worker-165: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-31 17:38:52,306 [Worker-165: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-31 17:38:52,309 [Worker-165: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-31 17:39:34,413 [Worker-162: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-31 17:39:34,418 [Worker-162: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-31 17:39:34,422 [Worker-162: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-31 17:40:18,255 [Worker-158: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-31 17:40:18,260 [Worker-158: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-31 17:40:18,264 [Worker-158: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-31 17:40:52,091 [Worker-165: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-31 17:40:52,099 [Worker-165: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-31 17:40:52,105 [Worker-165: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-31 17:41:18,344 [Worker-158: Launching SpringbootAutoaceApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-31 17:41:18,348 [Worker-158: Launching SpringbootAutoaceApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-31 17:41:18,359 [Worker-158: Launching SpringbootAutoaceApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-31 17:41:44,039 [Worker-167: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-31 17:41:44,049 [Worker-167: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-31 17:41:44,053 [Worker-167: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-31 17:42:00,284 [Worker-162: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-31 17:42:00,290 [Worker-162: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-31 17:42:00,294 [Worker-162: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-31 17:42:32,704 [Stop Help Server] INFO  org.eclipse.jetty.server.Server - Stopped oejs.Server@479a7e80{STOPPING}[12.0.3,sto=0]
+2023-12-31 17:42:32,713 [Stop Help Server] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@54065249{HTTP/1.1, (http/1.1)}{127.0.0.1:0}
+2023-12-31 17:42:45,414 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-12-31 17:43:46,780 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-31 17:43:46,801 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-31 17:43:46,814 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-31 17:44:45,690 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-12-31 18:02:31,043 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-31 18:02:31,095 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-31 18:02:31,104 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-31 18:06:13,113 [Start Help Server] INFO  org.eclipse.jetty.server.Server - jetty-12.0.3; built: 2023-10-27T03:25:22.284Z; git: a873259fd5af141dedaa6c7fa8fe8fbdedce0d61; jvm 17.0.9+9
+2023-12-31 18:06:13,176 [Start Help Server] INFO  o.e.j.server.handler.ContextHandler - Started oeje8n.ContextHandler$CoreContextHandler@6d2a4f1d{/help,/help,b=null,a=AVAILABLE,h=oeje8n.ContextHandler$CoreContextHandler$CoreToNestedHandler@11d2a6d7{STARTED}}
+2023-12-31 18:06:13,176 [Start Help Server] INFO  o.e.j.s.DefaultSessionIdManager - Session workerName=node0
+2023-12-31 18:06:13,217 [Start Help Server] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@601cfe51{HTTP/1.1, (http/1.1)}{127.0.0.1:59076}
+2023-12-31 18:06:13,242 [Start Help Server] INFO  org.eclipse.jetty.server.Server - Started oejs.Server@5f595544{STARTING}[12.0.3,sto=0] @1303346ms
+2023-12-31 18:06:46,430 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-31 18:06:46,460 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-31 18:06:46,466 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-31 18:07:45,568 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-31 18:07:45,611 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-31 18:07:45,619 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-31 18:08:30,691 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-31 18:08:30,744 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-31 18:08:30,755 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-31 18:08:50,300 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-31 18:08:50,306 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-31 18:08:50,312 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-31 18:09:17,265 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-31 18:09:17,270 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-31 18:09:17,277 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-31 18:09:49,606 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-31 18:09:49,626 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-31 18:09:49,630 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-31 18:12:05,200 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-31 18:12:05,203 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-31 18:12:05,212 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-31 18:12:43,048 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-31 18:12:43,053 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-31 18:12:43,068 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-31 18:14:11,850 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-31 18:14:11,881 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-31 18:14:11,886 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-31 18:15:05,863 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-31 18:15:05,868 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-31 18:15:05,881 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-31 18:15:54,829 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-31 18:15:54,853 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-31 18:15:54,860 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-31 18:16:58,937 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-31 18:16:58,966 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-31 18:16:58,971 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-31 18:17:12,794 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-31 18:17:12,801 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-31 18:17:12,804 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-31 18:19:24,067 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-31 18:19:24,071 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-31 18:19:24,080 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-31 18:19:36,398 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-31 18:19:36,403 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-31 18:19:36,410 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-31 18:20:22,134 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-31 18:20:22,147 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-31 18:20:22,152 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-31 18:20:43,660 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-31 18:20:43,666 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-31 18:20:43,673 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-31 18:22:21,040 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-31 18:22:21,046 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-31 18:22:21,056 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-31 18:22:29,707 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-31 18:22:29,714 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-31 18:22:29,720 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-31 18:24:43,572 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-31 18:24:43,647 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-31 18:24:43,655 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-31 18:25:32,719 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-31 18:25:32,749 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-31 18:25:32,756 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-31 18:25:58,063 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-31 18:25:58,082 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-31 18:25:58,089 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-31 18:26:17,084 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-31 18:26:17,160 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-31 18:26:17,176 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-31 18:32:58,039 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-12-31 18:32:58,058 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-12-31 18:32:58,066 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2023-12-31 18:33:23,427 [Stop Help Server] INFO  org.eclipse.jetty.server.Server - Stopped oejs.Server@5f595544{STOPPING}[12.0.3,sto=0]
+2023-12-31 18:33:23,433 [Stop Help Server] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@601cfe51{HTTP/1.1, (http/1.1)}{127.0.0.1:0}
+2023-12-31 22:18:21,039 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-01-01 01:05:43,092 [Start Help Server] INFO  org.eclipse.jetty.server.Server - jetty-12.0.3; built: 2023-10-27T03:25:22.284Z; git: a873259fd5af141dedaa6c7fa8fe8fbdedce0d61; jvm 17.0.9+9
+2024-01-01 01:05:43,226 [Start Help Server] INFO  o.e.j.server.handler.ContextHandler - Started oeje8n.ContextHandler$CoreContextHandler@4eb2756e{/help,/help,b=null,a=AVAILABLE,h=oeje8n.ContextHandler$CoreContextHandler$CoreToNestedHandler@105aaad3{STARTED}}
+2024-01-01 01:05:43,229 [Start Help Server] INFO  o.e.j.s.DefaultSessionIdManager - Session workerName=node0
+2024-01-01 01:05:43,286 [Start Help Server] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@5dde59e3{HTTP/1.1, (http/1.1)}{127.0.0.1:54764}
+2024-01-01 01:05:43,338 [Start Help Server] INFO  org.eclipse.jetty.server.Server - Started oejs.Server@8b8d345{STARTING}[12.0.3,sto=0] @10065937ms
+2024-01-01 02:05:22,203 [Worker-80: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-01 02:05:22,341 [Worker-80: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-01-01 02:05:22,356 [Worker-80: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2024-01-01 04:02:12,443 [Worker-104: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-01 04:02:12,515 [Worker-104: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-01-01 04:02:12,529 [Worker-104: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2024-01-01 04:07:44,573 [Worker-105: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-01 04:07:44,647 [Worker-105: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-01-01 04:07:44,659 [Worker-105: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2024-01-01 04:09:37,038 [Worker-106: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-01 04:09:37,145 [Worker-106: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-01-01 04:09:37,161 [Worker-106: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2024-01-01 04:10:30,996 [Worker-104: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-01 04:10:31,062 [Worker-104: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-01-01 04:10:31,074 [Worker-104: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2024-01-01 04:12:35,630 [Worker-101: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-01 04:12:35,635 [Worker-101: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-01-01 04:12:35,640 [Worker-101: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2024-01-01 04:19:25,382 [Worker-108: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-01 04:19:25,416 [Worker-108: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-01-01 04:19:25,424 [Worker-108: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2024-01-01 04:20:32,080 [Worker-111: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-01 04:20:32,097 [Worker-111: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-01-01 04:20:32,109 [Worker-111: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2024-01-01 04:23:00,654 [Worker-112: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-01 04:23:00,660 [Worker-112: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-01-01 04:23:00,666 [Worker-112: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2024-01-01 04:24:16,212 [Worker-104: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-01 04:24:16,224 [Worker-104: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-01-01 04:24:16,234 [Worker-104: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2024-01-01 04:27:48,446 [Stop Help Server] INFO  org.eclipse.jetty.server.Server - Stopped oejs.Server@8b8d345{STOPPING}[12.0.3,sto=0]
+2024-01-01 04:27:48,464 [Stop Help Server] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@5dde59e3{HTTP/1.1, (http/1.1)}{127.0.0.1:0}
+2024-01-01 11:11:04,367 [Worker-26: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-01-01 11:11:47,015 [Start Help Server] INFO  org.eclipse.jetty.server.Server - jetty-12.0.3; built: 2023-10-27T03:25:22.284Z; git: a873259fd5af141dedaa6c7fa8fe8fbdedce0d61; jvm 17.0.9+9
+2024-01-01 11:11:47,103 [Start Help Server] INFO  o.e.j.server.handler.ContextHandler - Started oeje8n.ContextHandler$CoreContextHandler@16c090b1{/help,/help,b=null,a=AVAILABLE,h=oeje8n.ContextHandler$CoreContextHandler$CoreToNestedHandler@e773ab8{STARTED}}
+2024-01-01 11:11:47,105 [Start Help Server] INFO  o.e.j.s.DefaultSessionIdManager - Session workerName=node0
+2024-01-01 11:11:47,151 [Start Help Server] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@5df94c1d{HTTP/1.1, (http/1.1)}{127.0.0.1:57887}
+2024-01-01 11:11:47,189 [Start Help Server] INFO  org.eclipse.jetty.server.Server - Started oejs.Server@7c0760fa{STARTING}[12.0.3,sto=0] @91132ms
+2024-01-01 11:13:17,313 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-01 11:13:17,329 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-01-01 11:13:17,335 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2024-01-01 11:13:26,696 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-01 11:13:26,703 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-01-01 11:13:26,707 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2024-01-01 11:20:35,068 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-01 11:20:35,134 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-01-01 11:20:35,141 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2024-01-01 11:25:10,315 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-01 11:25:10,471 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-01-01 11:25:10,479 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2024-01-01 11:34:08,529 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-01 11:34:08,564 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-01-01 11:34:08,572 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2024-01-01 11:35:41,146 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-01 11:35:41,194 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-01-01 11:35:41,203 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2024-01-01 11:53:57,918 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-01 11:53:57,960 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-01-01 11:53:57,967 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2024-01-01 12:05:08,267 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-01 12:05:08,319 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-01-01 12:05:08,334 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2024-01-01 12:05:26,579 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-01 12:05:26,588 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-01-01 12:05:26,593 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2024-01-01 12:12:25,665 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-01 12:12:25,914 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-01-01 12:12:25,937 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2024-01-01 12:12:59,078 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-01 12:12:59,099 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-01-01 12:12:59,107 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2024-01-01 12:45:09,716 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-01 12:45:09,821 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-01-01 12:45:09,825 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2024-01-01 12:48:35,769 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-01 12:48:35,774 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-01-01 12:48:35,778 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2024-01-01 12:49:30,446 [Worker-71: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-01 12:49:30,551 [Worker-71: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-01-01 12:49:30,554 [Worker-71: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2024-01-01 12:51:48,796 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-01 12:51:48,802 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-01-01 12:51:48,806 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2024-01-01 12:52:11,944 [Worker-70: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-01 12:52:11,957 [Worker-70: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-01-01 12:52:11,961 [Worker-70: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2024-01-01 12:52:31,433 [Worker-76: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-01 12:52:31,576 [Worker-76: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-01-01 12:52:31,580 [Worker-76: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2024-01-01 12:52:48,177 [Stop Help Server] INFO  org.eclipse.jetty.server.Server - Stopped oejs.Server@7c0760fa{STOPPING}[12.0.3,sto=0]
+2024-01-01 12:52:48,195 [Stop Help Server] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@5df94c1d{HTTP/1.1, (http/1.1)}{127.0.0.1:0}
+2024-01-01 12:53:13,018 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-01-01 12:56:48,267 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-01 12:56:48,357 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-01-01 12:56:48,363 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2024-01-01 12:57:21,603 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-01 12:57:21,921 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-01-01 12:57:21,927 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2024-01-01 12:58:28,450 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-01 12:58:28,462 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-01-01 12:58:28,468 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2024-01-01 12:59:03,159 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-01 12:59:03,171 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-01-01 12:59:03,176 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2024-01-01 12:59:20,682 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-01 12:59:20,688 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-01-01 12:59:20,693 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2024-01-01 12:59:50,475 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-01 12:59:50,481 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-01-01 12:59:50,487 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2024-01-01 13:01:12,056 [Start Help Server] INFO  org.eclipse.jetty.server.Server - jetty-12.0.3; built: 2023-10-27T03:25:22.284Z; git: a873259fd5af141dedaa6c7fa8fe8fbdedce0d61; jvm 17.0.9+9
+2024-01-01 13:01:12,129 [Start Help Server] INFO  o.e.j.server.handler.ContextHandler - Started oeje8n.ContextHandler$CoreContextHandler@4b04589c{/help,/help,b=null,a=AVAILABLE,h=oeje8n.ContextHandler$CoreContextHandler$CoreToNestedHandler@4ab9d105{STARTED}}
+2024-01-01 13:01:12,130 [Start Help Server] INFO  o.e.j.s.DefaultSessionIdManager - Session workerName=node0
+2024-01-01 13:01:12,170 [Start Help Server] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@649834ca{HTTP/1.1, (http/1.1)}{127.0.0.1:51879}
+2024-01-01 13:01:12,206 [Start Help Server] INFO  org.eclipse.jetty.server.Server - Started oejs.Server@59fe1ee7{STARTING}[12.0.3,sto=0] @496891ms
+2024-01-01 13:01:37,216 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-01 13:01:37,224 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-01-01 13:01:37,228 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2024-01-01 13:06:49,635 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-01 13:06:49,708 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-01-01 13:06:49,718 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2024-01-01 13:08:13,397 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-01 13:08:13,423 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-01-01 13:08:13,430 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\kirti\Vikrant\CDAC\Project\Adv_Java_AutoAce\Backend\springboot-autoace\src\test\resources
+2024-01-01 14:38:24,487 [Stop Help Server] INFO  org.eclipse.jetty.server.Server - Stopped oejs.Server@59fe1ee7{STOPPING}[12.0.3,sto=0]
+2024-01-01 14:38:24,505 [Stop Help Server] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@649834ca{HTTP/1.1, (http/1.1)}{127.0.0.1:0}
+2024-01-01 14:40:34,827 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.

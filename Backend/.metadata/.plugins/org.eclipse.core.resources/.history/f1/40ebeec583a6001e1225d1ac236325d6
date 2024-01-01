@@ -1,0 +1,13 @@
+package com.project.springprojectautoace;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class SpringProjectAutoaceApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(SpringProjectAutoaceApplication.class, args);
+	}
+
+}

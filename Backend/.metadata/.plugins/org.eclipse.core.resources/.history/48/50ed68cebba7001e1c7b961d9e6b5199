@@ -1,0 +1,89 @@
+package com.project.entity;
+
+import java.time.LocalDate;
+
+import jakarta.persistence.JoinColumn;
+import jakarta.persistence.ManyToOne;
+
+public class Booking {
+	private int id;
+	private String vehicleModelName;
+	private String vehicleRegistrationNo;
+	private LocalDate serviceDate;
+	private String serviceCenter;
+	private String extraServiceDesc;
+	
+	@ManyToOne
+	@JoinColumn(name = "service_id")
+	private ServiceTable serviceTable;
+	
+	@ManyToOne
+	@JoinColumn(name = "customer_id")
+	private Customer customer;
+
+	public int getId() {
+		return id;
+	}
+
+	public void setId(int id) {
+		this.id = id;
+	}
+
+	public String getVehicleModelName() {
+		return vehicleModelName;
+	}
+
+	public void setVehicleModelName(String vehicleModelName) {
+		this.vehicleModelName = vehicleModelName;
+	}
+
+	public String getVehicleRegistrationNo() {
+		return vehicleRegistrationNo;
+	}
+
+	public void setVehicleRegistrationNo(String vehicleRegistrationNo) {
+		this.vehicleRegistrationNo = vehicleRegistrationNo;
+	}
+
+	public LocalDate getServiceDate() {
+		return serviceDate;
+	}
+
+	public void setServiceDate(LocalDate serviceDate) {
+		this.serviceDate = serviceDate;
+	}
+
+	public String getServiceCenter() {
+		return serviceCenter;
+	}
+
+	public void setServiceCenter(String serviceCenter) {
+		this.serviceCenter = serviceCenter;
+	}
+
+	public String getExtraServiceDesc() {
+		return extraServiceDesc;
+	}
+
+	public void setExtraServiceDesc(String extraServiceDesc) {
+		this.extraServiceDesc = extraServiceDesc;
+	}
+
+	public ServiceTable getServiceTable() {
+		return serviceTable;
+	}
+
+	public void setServiceTable(ServiceTable serviceTable) {
+		this.serviceTable = serviceTable;
+	}
+
+	public Customer getCustomer() {
+		return customer;
+	}
+
+	public void setCustomer(Customer customer) {
+		this.customer = customer;
+	}
+	
+	
+}
