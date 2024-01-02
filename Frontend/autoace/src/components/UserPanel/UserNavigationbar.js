@@ -3,8 +3,10 @@ import { Container, Nav, Navbar } from "react-bootstrap";
 import NavDropdown from "react-bootstrap/NavDropdown";
 import { LinkContainer } from "react-router-bootstrap";
 
-
 export default function UserNavigationbar() {
+  const customerID = sessionStorage.getItem("customerId");
+  console.log("Session Of customer " + customerID);
+
   return (
     // <Navbar expand="lg" className="bg-body-tertiary">
     //       <Container>
@@ -26,29 +28,27 @@ export default function UserNavigationbar() {
     //       </Container>
     //   </Navbar>
 
-    <Navbar expand="lg" className="bg-body-tertiary sticky-top" >
+    <Navbar expand="lg" className="bg-body-tertiary sticky-top">
       <Container>
         <Navbar.Brand href="#home">🛠️AUTOACE</Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="me-auto">
-            
             <LinkContainer to="/UserPage">
-              <Nav.Link >Home</Nav.Link>
+              <Nav.Link>Home</Nav.Link>
             </LinkContainer>
 
             <LinkContainer to="/Booking">
               <Nav.Link>📕Book Now.</Nav.Link>
             </LinkContainer>
 
-            <LinkContainer to="">
+            <LinkContainer to="/ViewCustomerBookedServices">
               <Nav.Link>📖Show Booking</Nav.Link>
             </LinkContainer>
 
             <LinkContainer to="/UserFeedback">
               <Nav.Link>⭐Fill Feedback</Nav.Link>
             </LinkContainer>
-  
           </Nav>
         </Navbar.Collapse>
       </Container>

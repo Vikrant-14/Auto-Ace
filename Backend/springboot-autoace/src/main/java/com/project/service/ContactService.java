@@ -31,6 +31,5 @@ public class ContactService {
 
         // Delete the contact
         contactRepository.delete(existingContact);
-	
-}
+	}
 }

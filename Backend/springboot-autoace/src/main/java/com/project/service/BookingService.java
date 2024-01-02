@@ -7,9 +7,11 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 import com.project.entity.Booking;
+import com.project.entity.Contact;
 import com.project.entity.Customer;
 import com.project.entity.ServiceTable;
 import com.project.exception.BookingException;
+import com.project.exception.ContactException;
 import com.project.repository.BookingRepository;
 import com.project.repository.CustomerRepository;
 import com.project.repository.ServiceRepository;
@@ -52,4 +54,20 @@ public class BookingService{
     public List<Booking> getAllBooking() {
     	return bookingRepository.findAll();
     }
+    
+    //fetch booked services by customer id
+    public List<Booking> getBookingById(int customerId) {
+    	return bookingRepository.findByCustomerId(customerId);
+    }
+    
+    
+    //delete by id
+    public void deleteBookService(int bookingId) {
+        // Check if the contact exists
+        Booking existingBooking = bookingRepository.findById(bookingId)
+                .orElseThrow(() -> new BookingException("bookingId not found "));
+
+        // Delete the contact
+        bookingRepository.delete(existingBooking);
+	}
 }

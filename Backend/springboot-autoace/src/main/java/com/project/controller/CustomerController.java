@@ -1,11 +1,15 @@
 package com.project.controller;
 
+import java.util.List;
+import java.util.Optional;
+
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpHeaders;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.CrossOrigin;
 import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
@@ -15,8 +19,10 @@ import com.project.dto.LoginDetails;
 import com.project.dto.LoginStatus;
 import com.project.dto.RegistrationStatus;
 import com.project.dto.Status;
+import com.project.entity.Booking;
 import com.project.entity.Customer;
 import com.project.exception.CustomerServiceException;
+import com.project.service.BookingService;
 import com.project.service.CustomerService;
 
 @RestController
@@ -26,6 +32,8 @@ public class CustomerController {
 	@Autowired
 	private CustomerService customerService;
 	
+	@Autowired
+	private BookingService bookingservice;
 	
 	@PostMapping("/customer/register")
 	public Status register(@RequestBody Customer customer) {
@@ -92,6 +100,12 @@ public class CustomerController {
 		}
 	}
 	
+	
+	@GetMapping("/fetchServicesById/{customerId}")
+	public List<Booking> fetchById(@PathVariable int customerId) {
+	    return  bookingservice.getBookingById(customerId);
+	}
+
 	
 	
 	

@@ -4,7 +4,9 @@ import java.util.List;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.CrossOrigin;
+import org.springframework.web.bind.annotation.DeleteMapping;
 import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestParam;
@@ -46,5 +48,23 @@ public class BookingController {
 		return bookingService.getAllBooking();
 	}
 	
+	
+	@DeleteMapping("/deleteService/{bookingId}")
+    public BookingStatus deleteContact(@PathVariable int bookingId) {
+		try {
+			bookingService.deleteBookService(bookingId);
+			
+			BookingStatus status = new BookingStatus();
+    		status.setBookingStatus(true);
+    		status.setBookingStatusMessage("Deleted Successful!");
+    		
+    		return status;
+		}catch(BookingException e) {
+    		BookingStatus status = new BookingStatus();
+    		status.setBookingStatus(false);
+    		status.setBookingStatusMessage("Deletion Failed!");
+    		return status;
+    	}
+    }
 	
 }

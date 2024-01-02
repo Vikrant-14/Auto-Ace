@@ -24,6 +24,8 @@ import ViewContact from "./components/AdminPanel/ViewContact";
 import Addservice from "./components/AdminPanel/Addservice";
 import CustomerLogin from "./components/UserPanel/CustomerLogin";
 import ViewBookedServices from "./components/AdminPanel/ViewBookedServices";
+import ViewCustomerBookedServices from "./components/UserPanel/ViewCustomerBookedServices";
+import EditBooking from "./components/UserPanel/EditBooking";
 
 function App() {
   return (
@@ -52,6 +54,8 @@ function App() {
       <Route path="/UserFeedback" element={<UserFeedback />}></Route>
       <Route path="/CustomerRegistration" element={<CustomerRegistration/>}></Route>
       <Route path="/CustomerLogin" element={<CustomerLogin/>}></Route>
+      <Route path="/ViewCustomerBookedServices" element={<ViewCustomerBookedServices/>}></Route>
+      <Route path="/EditBooking" element={<EditBooking/>}></Route>
       </Routes>
 
       <Footer/>
