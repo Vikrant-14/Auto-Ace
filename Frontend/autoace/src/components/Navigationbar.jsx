@@ -30,6 +30,7 @@ export function Navigationbar() {
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="me-auto">
+            
             <LinkContainer to="/">
               <Nav.Link>Home</Nav.Link>
             </LinkContainer>
@@ -50,7 +51,9 @@ export function Navigationbar() {
               <NavDropdown.Item href="/Adminlogin">
                 Admin Login
               </NavDropdown.Item>
-              <NavDropdown.Item href="#action/3.2">User Login</NavDropdown.Item>
+              <NavDropdown.Item href="/CustomerLogin">User Login</NavDropdown.Item>
+
+              <NavDropdown.Item href="/ServiceCenterLogin">Service Center Login</NavDropdown.Item>
               {/* <NavDropdown.Item href="#action/3.3">Something</NavDropdown.Item>
               <NavDropdown.Divider />
               <NavDropdown.Item href="#action/3.4">

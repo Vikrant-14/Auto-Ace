@@ -33,7 +33,7 @@ public class ServiceTable {
 	
 	@Column(name="service_price" , nullable=false)
 	private double price;
-	
+	   
 	
 	@ManyToOne
 	@JoinColumn(name ="admin_id")

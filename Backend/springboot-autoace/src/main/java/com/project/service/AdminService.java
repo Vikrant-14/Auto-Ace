@@ -44,5 +44,4 @@ public class AdminService {
 		// TODO Auto-generated method stub
 		return adminRepository.findAll();
 	}
-	
 }

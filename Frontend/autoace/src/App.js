@@ -24,8 +24,19 @@ import ViewContact from "./components/AdminPanel/ViewContact";
 import Addservice from "./components/AdminPanel/Addservice";
 import CustomerLogin from "./components/UserPanel/CustomerLogin";
 import ViewBookedServices from "./components/AdminPanel/ViewBookedServices";
+import ShowBooking from "./components/UserPanel/ShowBooking";
+import ViewFeedback from "./components/AdminPanel/ViewFeedback";
 import ViewCustomerBookedServices from "./components/UserPanel/ViewCustomerBookedServices";
-import EditBooking from "./components/UserPanel/EditBooking";
+import ServiceCenterRegsitration from "./components/ServiceCenterPanel/ServiceCenterRegsitration";
+import ServiceCenterLogin from "./components/ServiceCenterPanel/ServiceCenterLogin";
+import ServiceCenterHome from "./components/ServiceCenterPanel/ServiceCenterHome";
+import RequestService from "./components/ServiceCenterPanel/RequestService";
+import InvoiceService from "./components/ServiceCenterPanel/InvoiceService";
+import SendConfirmation from "./components/ServiceCenterPanel/SendConfirmation";
+import RoomPage from "./components/ServiceCenterPanel/RoomIndex";
+import Payment from "./components/UserPanel/Payment";
+import ViewBookingServices from "./components/ServiceCenterPanel/ViewBookingServices";
+//import ServiceCenterHome from "./components/ServiceCenterPanel/ServiceCenterHome";
 
 function App() {
   return (
@@ -46,6 +57,7 @@ function App() {
        <Route path="/ViewContact" element={<ViewContact/>}></Route>
        <Route path="/Addservice" element={<Addservice/>}></Route>
        <Route path="/ViewBookedServices" element={<ViewBookedServices/>}></Route>
+       <Route path="/ViewFeedback" element={<ViewFeedback/>}></Route>
       </Routes>
 
       <Routes>
@@ -54,9 +66,24 @@ function App() {
       <Route path="/UserFeedback" element={<UserFeedback />}></Route>
       <Route path="/CustomerRegistration" element={<CustomerRegistration/>}></Route>
       <Route path="/CustomerLogin" element={<CustomerLogin/>}></Route>
+      {/* <Route path="/ShowBooking" element={<ShowBooking/>}></Route> */}
       <Route path="/ViewCustomerBookedServices" element={<ViewCustomerBookedServices/>}></Route>
-      <Route path="/EditBooking" element={<EditBooking/>}></Route>
       </Routes>
+
+     <Routes>
+     <Route path="/ServiceCenterRegsitration" element={<ServiceCenterRegsitration />}></Route>
+     <Route path="/ServiceCenterLogin" element={<ServiceCenterLogin />}></Route>
+     <Route path="/ServiceCenterHome" element={<ServiceCenterHome />}></Route>
+     <Route path="/RequestService" element={<RequestService />}></Route>
+     <Route path="/InvoiceService" element={<InvoiceService />}></Route>
+     <Route path="/Payment" element={<Payment />}></Route>
+     <Route path="/SendConfirmation" element={<SendConfirmation />}></Route>
+     <Route path="/room/:roomId" element={<RoomPage />}></Route>
+     <Route path="/ViewBookingServices" element={<ViewBookingServices />}></Route>
+     </Routes>
+      {/* <Routes>
+        <Route path="/ServiceCenterRegsitration" element={<ServiceCenterRegsitration/>}</Route>
+      </Routes> */}
 
       <Footer/>
     </BrowserRouter>

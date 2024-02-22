@@ -112,5 +112,4 @@ public class AdminController {
 	public List<Customer> getAllCust(){
 		return customerService.getAllCustomers();
 	}
-	
 }

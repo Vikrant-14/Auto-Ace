@@ -2,6 +2,7 @@ import React from 'react';
 import './FooterStyles.css'; 
 import '@fortawesome/fontawesome-free/css/all.css';
 import { useState } from 'react';
+import { LanguageSelector } from '../AdminPanel/Languageselector';
 
 
 
@@ -14,6 +15,9 @@ export const Footer = () => {
           <FooterLink title="Teams" links={['Nagpur', 'Mumbai', 'Pune', 'Gujarat']} />
           <FooterLink title="Useful Pages" links={['About Us', 'Contact Us', 'Our Team', 'Projects', 'Testimonial']} />
           <Newsletter />
+        </div>
+        <div>
+          <LanguageSelector/>
         </div>
       </div>
       <div className="container footer-menu">

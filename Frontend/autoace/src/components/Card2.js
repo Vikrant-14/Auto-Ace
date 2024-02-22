@@ -10,7 +10,7 @@ export default function Card2() {
         <Card.Text>
         “A bike is like a good friend, it’s always there when you need it.” 
         </Card.Text>
-        <Button variant="outline-primary">About Us..</Button>{' '}
+        <Button variant="outline-primary" href="/about">About Us..</Button>{' '}
       </Card.Body>
     </Card>
   );
